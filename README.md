@@ -13,9 +13,13 @@ Also, if you want to edit something you can do it by editing through Python.
 Here's the stats
 
 OS Written in: Linux | Deepin 15.11
+
 Author: Jake Deltas
+
 Email: jakedeltasbilling@gmail.com
+
 Software: Python
 
 [!] Have any questions? 
+
 Here's my Discord: • Jake •#0001
